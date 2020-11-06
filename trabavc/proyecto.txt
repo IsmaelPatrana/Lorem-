@@ -1,0 +1,7 @@
+1)Diseño minimalista
+2)login
+3)Mongo db
+4)nodejs
+4)Todo el mundo pueda lanzar su oferta
+5)hacer un verificado de hoja de vida o certificados}
+6)sweetalert2
